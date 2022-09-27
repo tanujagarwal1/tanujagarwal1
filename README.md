@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tanujagarwal1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tanuj Agarwal
+- 👀 I’m interested in Data analysis , Project Management , Sports 
+- 🌱 I’m currently learning Data analytical tools
+- 💞️ I’m looking to collaborate on  Data analysis projects
+- 📫 How to reach me tagarwal110@gmail.com or 9922632909.
 
 <!---
 tanujagarwal1/tanujagarwal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
